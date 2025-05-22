@@ -1,6 +1,3 @@
-# Beastboard--Mr-Beast-YouTube-Dashboard
-This project consists of the famous youtuber Mr Beast's YouTube channel analysis, from the YouTube API integration to Power BI dashboard.
-
 # 🧠 BeastBoard: MrBeast YouTube Dashboard
 
 Welcome to **BeastBoard** — a data-driven visual analysis of MrBeast's YouTube channel built using **Python**, **MySQL**, and **Power BI**.
@@ -39,13 +36,6 @@ To demonstrate the end-to-end data workflow — from API data collection and SQL
 
 
 ---
-
-## 🔗 Dashboard Preview
-
-[📊 View the Power BI Dashboard (PDF/screenshots/video link)](YOUR_LINK_HERE)
-
----
-
 ## 🚀 How It Works
 
 1. Fetches 200 latest videos from MrBeast’s channel using the YouTube API.
